@@ -83,17 +83,10 @@ When the program starts, the main menu provides options to:
 
 - **guest_info.txt**: Stores guest booking information. Each entry includes CNIC, names, phone number, email, check-in date, number of days of stay, number of guests, room bookings, and total cost.
 
-## Contribution
-
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please contact [your email address].
+For any questions or feedback, please contact talhaamin112233@gmail.com.
 
 ---
 
