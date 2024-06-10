@@ -1,0 +1,14 @@
+					| CNIC: 00000-0000000-0
+					| First Name: talha
+					| Second Name: amin
+					| Phone Number: 0000-0000000
+					| Email: tahs
+					| Check-In Date: 22-01-2003
+					| Days Of Stay: 3
+					| Number Of Guests: 5
+					| Single Rooms Booked: 2
+					| Double Rooms Booked: 2
+					| Total Cost: 117000 PKR
+					| Scenery Added: Yes
+					| Scenery Cost: 9000 PKR
+					-----------------------------------------
